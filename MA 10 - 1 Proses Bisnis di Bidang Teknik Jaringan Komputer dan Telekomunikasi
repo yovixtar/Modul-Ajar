@@ -1,0 +1,72 @@
+### Modul Ajar: Proses Bisnis di Bidang Teknik Jaringan Komputer dan Telekomunikasi
+
+#### 1. Tujuan Pembelajaran
+1. Memahami konsep dasar proses bisnis dalam teknik jaringan komputer.
+2. Menerapkan langkah-langkah dasar untuk mendesain jaringan komputer sederhana.
+3. Mengidentifikasi komponen-komponen utama dalam sistem telekomunikasi.
+4. Mendiagnosis dan memecahkan masalah dasar dalam jaringan telekomunikasi.
+
+#### 2. Langkah Kegiatan
+- **Kegiatan 1**:
+  1. Pembelajaran teori tentang konsep dasar proses bisnis dalam teknik jaringan komputer.
+  2. Diskusi kelompok tentang aplikasi nyata dari proses bisnis dalam jaringan komputer.
+  3. Pembuatan proyek kelompok untuk mendesain jaringan komputer sederhana, meliputi perencanaan, pembuatan diagram, dan presentasi hasil desain.
+  4. Tugas individu untuk membuat laporan tentang desain jaringan komputer dan manfaatnya dalam proses bisnis.
+
+- **Kegiatan 2**:
+  1. Pembelajaran teori tentang sistem telekomunikasi dan komponen-komponennya.
+  2. Analisis studi kasus tentang masalah umum dalam jaringan telekomunikasi dan cara mengatasinya.
+  3. Praktik diagnosis dan pemecahan masalah pada simulasi jaringan telekomunikasi, melibatkan identifikasi masalah, pemilihan alat dan teknik yang tepat, serta implementasi solusi.
+  4. Penyusunan laporan hasil praktik yang mencakup langkah-langkah diagnosis dan solusi yang diterapkan, serta refleksi terhadap proses pembelajaran dan hasil yang diperoleh.
+
+#### 3. Asesmen
+- **Asesmen Awal**:
+  1. Pre-test untuk mengukur pemahaman awal siswa tentang proses bisnis dalam jaringan komputer dan telekomunikasi.
+  2. Tanya jawab singkat untuk mengetahui pengetahuan dasar siswa tentang konsep jaringan dan telekomunikasi.
+
+- **Asesmen Proses**:
+  1. Observasi keterlibatan siswa selama diskusi kelompok dan kegiatan praktik.
+  2. Penilaian tugas kelompok berdasarkan desain jaringan komputer yang dibuat.
+  3. Penilaian kinerja siswa saat melakukan diagnosis dan pemecahan masalah pada simulasi jaringan telekomunikasi.
+
+- **Asesmen Akhir**:
+  1. Post-test untuk mengukur peningkatan pemahaman siswa setelah mengikuti pembelajaran.
+  2. Penilaian proyek akhir yang melibatkan desain dan implementasi jaringan komputer serta solusi masalah dalam telekomunikasi.
+
+#### 4. Lembar Penilaian
+
+| No  | Tujuan Pembelajaran                                | Kriteria Ketercapaian Tujuan Pembelajaran                                                                 |
+|-----|----------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 1   | Memahami konsep dasar proses bisnis dalam teknik jaringan komputer | Siswa mampu menjelaskan konsep dasar proses bisnis dengan jelas dan benar.                                 |
+| 2   | Menerapkan langkah-langkah dasar untuk mendesain jaringan komputer sederhana | Siswa mampu mendesain jaringan komputer sederhana dengan tepat sesuai dengan langkah-langkah yang diajarkan.|
+| 3   | Mengidentifikasi komponen-komponen utama dalam sistem telekomunikasi | Siswa mampu mengidentifikasi dan menjelaskan fungsi komponen utama dalam sistem telekomunikasi.             |
+| 4   | Mendiagnosis dan memecahkan masalah dasar dalam jaringan telekomunikasi | Siswa mampu mendiagnosis dan memecahkan masalah dasar dalam jaringan telekomunikasi dengan baik.             |
+
+#### 5. Rubrik dan Panduan Penilaian
+
+| Kriteria | Deskripsi                                                                                                      | Skor |
+|----------|---------------------------------------------------------------------------------------------------------------|------|
+| 1        | Pemahaman konsep dasar proses bisnis dalam teknik jaringan komputer                                            |      |
+|          | 1: Kurang dari 75, penjelasan tidak jelas dan banyak kesalahan                                                | 1    |
+|          | 2: 75-85, penjelasan cukup jelas namun masih ada beberapa kesalahan                                            | 2    |
+|          | 3: 86-95, penjelasan jelas dan hanya sedikit kesalahan                                                         | 3    |
+|          | 4: 96-100, penjelasan sangat jelas dan benar tanpa kesalahan                                                   | 4    |
+| 2        | Mendesain jaringan komputer sederhana                                                                          |      |
+|          | 1: Kurang dari 75, desain tidak sesuai dengan langkah-langkah yang diajarkan                                   | 1    |
+|          | 2: 75-85, desain cukup sesuai namun ada beberapa kesalahan                                                     | 2    |
+|          | 3: 86-95, desain sesuai dengan sedikit kesalahan                                                               | 3    |
+|          | 4: 96-100, desain sangat sesuai tanpa kesalahan                                                                | 4    |
+| 3        | Identifikasi komponen utama dalam sistem telekomunikasi                                                        |      |
+|          | 1: Kurang dari 75, identifikasi tidak jelas dan banyak kesalahan                                               | 1    |
+|          | 2: 75-85, identifikasi cukup jelas namun ada beberapa kesalahan                                                | 2    |
+|          | 3: 86-95, identifikasi jelas dengan sedikit kesalahan                                                          | 3    |
+|          | 4: 96-100, identifikasi sangat jelas dan benar tanpa kesalahan                                                 | 4    |
+| 4        | Diagnosis dan pemecahan masalah dasar dalam jaringan telekomunikasi                                            |      |
+|          | 1: Kurang dari 75, diagnosis dan pemecahan masalah tidak tepat                                                 | 1    |
+|          | 2: 75-85, diagnosis dan pemecahan masalah cukup tepat namun ada beberapa kesalahan                             | 2    |
+|          | 3: 86-95, diagnosis dan pemecahan masalah tepat dengan sedikit kesalahan                                       | 3    |
+|          | 4: 96-100, diagnosis dan pemecahan masalah sangat tepat tanpa kesalahan                                        | 4    |
+
+Catatan:
+* Diisi sesuai dengan perolehan skor sesuai dengan pedoman penskoran.
+* Nilai keterampilan diperoleh dari perhitungan: \( \left( \frac{\text{Jumlah Skor yang diperoleh}}{\text{Skor maksimal}} \right) \times 10 \)
