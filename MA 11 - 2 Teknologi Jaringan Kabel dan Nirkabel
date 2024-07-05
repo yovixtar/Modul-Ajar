@@ -1,0 +1,72 @@
+### Modul Ajar: Teknologi Jaringan Kabel dan Nirkabel
+
+#### 1. Tujuan Pembelajaran
+1.1 Memahami konsep dasar teknologi jaringan kabel.
+1.2 Melakukan instalasi dan konfigurasi jaringan kabel.
+1.3 Memahami konsep dasar teknologi jaringan nirkabel.
+1.4 Melakukan instalasi dan konfigurasi jaringan nirkabel.
+
+#### 2. Langkah Kegiatan
+- **Kegiatan 1**:
+  1. Pembelajaran teori tentang konsep dasar teknologi jaringan kabel, termasuk jenis-jenis kabel, standar, dan topologi jaringan kabel.
+  2. Diskusi kelompok mengenai aplikasi jaringan kabel dalam berbagai skenario dan industri.
+  3. Proyek kelompok untuk melakukan instalasi jaringan kabel, meliputi pemilihan kabel, konektor, pengkabelan, dan pengujian konektivitas.
+  4. Tugas individu untuk membuat laporan tentang proses instalasi jaringan kabel yang dilakukan dan evaluasi kinerjanya.
+
+- **Kegiatan 2**:
+  1. Pembelajaran teori tentang konsep dasar teknologi jaringan nirkabel, termasuk frekuensi, protokol, dan keamanan jaringan nirkabel.
+  2. Analisis studi kasus tentang penggunaan jaringan nirkabel dalam lingkungan bisnis dan rumah.
+  3. Praktik konfigurasi perangkat jaringan nirkabel, meliputi pengaturan SSID, keamanan jaringan, dan optimasi sinyal.
+  4. Proyek individu untuk mengkonfigurasi jaringan nirkabel, termasuk instalasi perangkat, pengaturan keamanan, dan verifikasi konektivitas.
+
+#### 3. Asesmen
+- **Asesmen Awal**:
+  1. Pre-test untuk mengukur pemahaman awal siswa tentang teknologi jaringan kabel dan nirkabel.
+  2. Tanya jawab singkat untuk mengetahui pengetahuan dasar siswa tentang jenis-jenis kabel dan prinsip dasar jaringan nirkabel.
+
+- **Asesmen Proses**:
+  1. Observasi keterlibatan siswa selama diskusi kelompok dan kegiatan praktik.
+  2. Penilaian tugas kelompok berdasarkan instalasi jaringan kabel yang dilakukan.
+  3. Penilaian kinerja siswa saat melakukan konfigurasi jaringan nirkabel pada perangkat.
+
+- **Asesmen Akhir**:
+  1. Post-test untuk mengukur peningkatan pemahaman siswa setelah mengikuti pembelajaran.
+  2. Penilaian proyek akhir yang melibatkan instalasi dan konfigurasi jaringan kabel dan nirkabel.
+
+#### 4. Lembar Penilaian
+
+| No  | Tujuan Pembelajaran                                | Kriteria Ketercapaian Tujuan Pembelajaran                                                                 |
+|-----|----------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 1   | Memahami konsep dasar teknologi jaringan kabel     | Siswa mampu menjelaskan konsep dasar teknologi jaringan kabel dengan jelas dan benar.                     |
+| 2   | Melakukan instalasi dan konfigurasi jaringan kabel | Siswa mampu melakukan instalasi dan konfigurasi jaringan kabel dengan tepat dan benar.                    |
+| 3   | Memahami konsep dasar teknologi jaringan nirkabel  | Siswa mampu menjelaskan konsep dasar teknologi jaringan nirkabel dengan jelas dan benar.                  |
+| 4   | Melakukan instalasi dan konfigurasi jaringan nirkabel | Siswa mampu melakukan instalasi dan konfigurasi jaringan nirkabel dengan tepat dan benar.                |
+
+#### 5. Rubrik dan Panduan Penilaian
+
+| Kriteria | Deskripsi                                                                                                      | Skor |
+|----------|---------------------------------------------------------------------------------------------------------------|------|
+| 1        | Pemahaman konsep dasar teknologi jaringan kabel                                                                |      |
+|          | 1: Kurang dari 75, penjelasan tidak jelas dan banyak kesalahan                                                | 1    |
+|          | 2: 75-85, penjelasan cukup jelas namun masih ada beberapa kesalahan                                            | 2    |
+|          | 3: 86-95, penjelasan jelas dan hanya sedikit kesalahan                                                         | 3    |
+|          | 4: 96-100, penjelasan sangat jelas dan benar tanpa kesalahan                                                   | 4    |
+| 2        | Melakukan instalasi dan konfigurasi jaringan kabel                                                             |      |
+|          | 1: Kurang dari 75, instalasi dan konfigurasi tidak tepat dan banyak kesalahan                                  | 1    |
+|          | 2: 75-85, instalasi dan konfigurasi cukup tepat namun ada beberapa kesalahan                                   | 2    |
+|          | 3: 86-95, instalasi dan konfigurasi tepat dengan sedikit kesalahan                                             | 3    |
+|          | 4: 96-100, instalasi dan konfigurasi sangat tepat tanpa kesalahan                                              | 4    |
+| 3        | Pemahaman konsep dasar teknologi jaringan nirkabel                                                             |      |
+|          | 1: Kurang dari 75, penjelasan tidak jelas dan banyak kesalahan                                                 | 1    |
+|          | 2: 75-85, penjelasan cukup jelas namun ada beberapa kesalahan                                                  | 2    |
+|          | 3: 86-95, penjelasan jelas dengan sedikit kesalahan                                                            | 3    |
+|          | 4: 96-100, penjelasan sangat jelas dan benar tanpa kesalahan                                                   | 4    |
+| 4        | Melakukan instalasi dan konfigurasi jaringan nirkabel                                                          |      |
+|          | 1: Kurang dari 75, instalasi dan konfigurasi tidak tepat dan banyak kesalahan                                  | 1    |
+|          | 2: 75-85, instalasi dan konfigurasi cukup tepat namun ada beberapa kesalahan                                   | 2    |
+|          | 3: 86-95, instalasi dan konfigurasi tepat dengan sedikit kesalahan                                             | 3    |
+|          | 4: 96-100, instalasi dan konfigurasi sangat tepat tanpa kesalahan                                              | 4    |
+
+Catatan:
+* Diisi sesuai dengan perolehan skor sesuai dengan pedoman penskoran.
+* Nilai keterampilan diperoleh dari perhitungan: \( \left( \frac{\text{Jumlah Skor yang diperoleh}}{\text{Skor maksimal}} \right) \times 10 \)
