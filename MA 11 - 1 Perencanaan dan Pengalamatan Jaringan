@@ -1,0 +1,72 @@
+### Modul Ajar: Perencanaan dan Pengalamatan Jaringan
+
+#### 1. Tujuan Pembelajaran
+1.1 Memahami konsep dasar perencanaan jaringan komputer.
+1.2 Membuat rancangan topologi jaringan sesuai kebutuhan.
+1.3 Memahami prinsip dasar pengalamatan IP dan subnetting.
+1.4 Mengkonfigurasi pengalamatan IP pada perangkat jaringan.
+
+#### 2. Langkah Kegiatan
+- **Kegiatan 1**:
+  1. Pembelajaran teori tentang konsep dasar perencanaan jaringan komputer.
+  2. Diskusi kelompok mengenai pentingnya perencanaan jaringan dalam berbagai skenario bisnis dan organisasi.
+  3. Proyek kelompok untuk membuat rancangan topologi jaringan yang mencakup analisis kebutuhan, pemilihan perangkat, dan pembuatan diagram topologi.
+  4. Tugas individu untuk menyusun laporan tentang proses perencanaan jaringan yang dilakukan dan penjelasan masing-masing komponen dalam topologi yang dibuat.
+
+- **Kegiatan 2**:
+  1. Pembelajaran teori tentang prinsip dasar pengalamatan IP dan subnetting.
+  2. Latihan soal untuk memahami dan mempraktikkan perhitungan subnetting.
+  3. Praktik konfigurasi pengalamatan IP pada perangkat jaringan menggunakan simulasi perangkat lunak atau perangkat keras.
+  4. Proyek individu untuk mengkonfigurasi jaringan sederhana, termasuk pemberian alamat IP, pengaturan subnet mask, dan verifikasi konektivitas jaringan.
+
+#### 3. Asesmen
+- **Asesmen Awal**:
+  1. Pre-test untuk mengukur pemahaman awal siswa tentang perencanaan jaringan dan pengalamatan IP.
+  2. Tanya jawab singkat untuk mengetahui pengetahuan dasar siswa tentang topologi jaringan dan konsep pengalamatan.
+
+- **Asesmen Proses**:
+  1. Observasi keterlibatan siswa selama diskusi kelompok dan kegiatan praktik.
+  2. Penilaian tugas kelompok berdasarkan rancangan topologi jaringan yang dibuat.
+  3. Penilaian kinerja siswa saat melakukan perhitungan subnetting dan konfigurasi pengalamatan IP pada perangkat jaringan.
+
+- **Asesmen Akhir**:
+  1. Post-test untuk mengukur peningkatan pemahaman siswa setelah mengikuti pembelajaran.
+  2. Penilaian proyek akhir yang melibatkan perencanaan topologi jaringan dan konfigurasi pengalamatan IP pada perangkat jaringan.
+
+#### 4. Lembar Penilaian
+
+| No  | Tujuan Pembelajaran                                | Kriteria Ketercapaian Tujuan Pembelajaran                                                                 |
+|-----|----------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 1   | Memahami konsep dasar perencanaan jaringan komputer | Siswa mampu menjelaskan konsep dasar perencanaan jaringan dengan jelas dan benar.                         |
+| 2   | Membuat rancangan topologi jaringan sesuai kebutuhan | Siswa mampu membuat rancangan topologi jaringan yang tepat sesuai dengan kebutuhan yang dianalisis.        |
+| 3   | Memahami prinsip dasar pengalamatan IP dan subnetting | Siswa mampu menjelaskan prinsip dasar pengalamatan IP dan subnetting dengan jelas dan benar.               |
+| 4   | Mengkonfigurasi pengalamatan IP pada perangkat jaringan | Siswa mampu mengkonfigurasi pengalamatan IP pada perangkat jaringan dengan tepat dan benar.                |
+
+#### 5. Rubrik dan Panduan Penilaian
+
+| Kriteria | Deskripsi                                                                                                      | Skor |
+|----------|---------------------------------------------------------------------------------------------------------------|------|
+| 1        | Pemahaman konsep dasar perencanaan jaringan komputer                                                           |      |
+|          | 1: Kurang dari 75, penjelasan tidak jelas dan banyak kesalahan                                                | 1    |
+|          | 2: 75-85, penjelasan cukup jelas namun masih ada beberapa kesalahan                                            | 2    |
+|          | 3: 86-95, penjelasan jelas dan hanya sedikit kesalahan                                                         | 3    |
+|          | 4: 96-100, penjelasan sangat jelas dan benar tanpa kesalahan                                                   | 4    |
+| 2        | Membuat rancangan topologi jaringan sesuai kebutuhan                                                           |      |
+|          | 1: Kurang dari 75, rancangan tidak sesuai dengan kebutuhan yang dianalisis                                     | 1    |
+|          | 2: 75-85, rancangan cukup sesuai namun ada beberapa kesalahan                                                  | 2    |
+|          | 3: 86-95, rancangan sesuai dengan sedikit kesalahan                                                            | 3    |
+|          | 4: 96-100, rancangan sangat sesuai tanpa kesalahan                                                             | 4    |
+| 3        | Pemahaman prinsip dasar pengalamatan IP dan subnetting                                                         |      |
+|          | 1: Kurang dari 75, penjelasan tidak jelas dan banyak kesalahan                                                 | 1    |
+|          | 2: 75-85, penjelasan cukup jelas namun ada beberapa kesalahan                                                  | 2    |
+|          | 3: 86-95, penjelasan jelas dengan sedikit kesalahan                                                            | 3    |
+|          | 4: 96-100, penjelasan sangat jelas dan benar tanpa kesalahan                                                   | 4    |
+| 4        | Mengkonfigurasi pengalamatan IP pada perangkat jaringan                                                        |      |
+|          | 1: Kurang dari 75, konfigurasi tidak tepat dan banyak kesalahan                                                | 1    |
+|          | 2: 75-85, konfigurasi cukup tepat namun ada beberapa kesalahan                                                 | 2    |
+|          | 3: 86-95, konfigurasi tepat dengan sedikit kesalahan                                                           | 3    |
+|          | 4: 96-100, konfigurasi sangat tepat tanpa kesalahan                                                            | 4    |
+
+Catatan:
+* Diisi sesuai dengan perolehan skor sesuai dengan pedoman penskoran.
+* Nilai keterampilan diperoleh dari perhitungan: \( \left( \frac{\text{Jumlah Skor yang diperoleh}}{\text{Skor maksimal}} \right) \times 10 \)
