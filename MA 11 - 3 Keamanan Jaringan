@@ -1,0 +1,72 @@
+### Modul Ajar: Keamanan Jaringan
+
+#### 1. Tujuan Pembelajaran
+1.1 Memahami konsep dasar keamanan jaringan.
+1.2 Mengidentifikasi berbagai jenis ancaman dan serangan terhadap jaringan.
+1.3 Memahami teknik dan alat yang digunakan untuk melindungi jaringan.
+1.4 Mengimplementasikan langkah-langkah keamanan jaringan pada perangkat dan sistem.
+
+#### 2. Langkah Kegiatan
+- **Kegiatan 1**:
+  1. Pembelajaran teori tentang konsep dasar keamanan jaringan, termasuk elemen-elemen penting dalam keamanan jaringan seperti confidentiality, integrity, dan availability (CIA Triad).
+  2. Diskusi kelompok mengenai berbagai jenis ancaman dan serangan terhadap jaringan seperti malware, phishing, DDoS, dan man-in-the-middle attacks.
+  3. Proyek kelompok untuk membuat laporan yang mengidentifikasi ancaman spesifik pada jaringan tertentu dan strategi yang bisa digunakan untuk menghadapinya.
+  4. Tugas individu untuk melakukan studi kasus tentang serangan jaringan yang pernah terjadi dan analisis dampaknya pada organisasi atau perusahaan.
+
+- **Kegiatan 2**:
+  1. Pembelajaran teori tentang teknik dan alat yang digunakan untuk melindungi jaringan, termasuk firewall, IDS/IPS, VPN, dan enkripsi.
+  2. Analisis studi kasus tentang penggunaan teknik dan alat keamanan jaringan dalam skenario dunia nyata.
+  3. Praktik konfigurasi firewall dan IDS/IPS pada perangkat jaringan menggunakan simulasi perangkat lunak atau perangkat keras.
+  4. Proyek individu untuk mengimplementasikan langkah-langkah keamanan jaringan pada sistem yang ada, termasuk pengaturan firewall, VPN, dan enkripsi data.
+
+#### 3. Asesmen
+- **Asesmen Awal**:
+  1. Pre-test untuk mengukur pemahaman awal siswa tentang konsep dasar keamanan jaringan dan jenis-jenis ancaman.
+  2. Tanya jawab singkat untuk mengetahui pengetahuan dasar siswa tentang teknik dan alat yang digunakan untuk melindungi jaringan.
+
+- **Asesmen Proses**:
+  1. Observasi keterlibatan siswa selama diskusi kelompok dan kegiatan praktik.
+  2. Penilaian tugas kelompok berdasarkan laporan yang dibuat tentang ancaman dan strategi keamanan jaringan.
+  3. Penilaian kinerja siswa saat melakukan konfigurasi firewall dan IDS/IPS pada perangkat jaringan.
+
+- **Asesmen Akhir**:
+  1. Post-test untuk mengukur peningkatan pemahaman siswa setelah mengikuti pembelajaran.
+  2. Penilaian proyek akhir yang melibatkan implementasi langkah-langkah keamanan jaringan pada perangkat dan sistem.
+
+#### 4. Lembar Penilaian
+
+| No  | Tujuan Pembelajaran                                | Kriteria Ketercapaian Tujuan Pembelajaran                                                                 |
+|-----|----------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 1   | Memahami konsep dasar keamanan jaringan            | Siswa mampu menjelaskan konsep dasar keamanan jaringan dengan jelas dan benar.                           |
+| 2   | Mengidentifikasi berbagai jenis ancaman dan serangan terhadap jaringan | Siswa mampu mengidentifikasi berbagai jenis ancaman dan serangan terhadap jaringan dengan tepat.          |
+| 3   | Memahami teknik dan alat yang digunakan untuk melindungi jaringan | Siswa mampu menjelaskan teknik dan alat yang digunakan untuk melindungi jaringan dengan jelas dan benar.  |
+| 4   | Mengimplementasikan langkah-langkah keamanan jaringan pada perangkat dan sistem | Siswa mampu mengimplementasikan langkah-langkah keamanan jaringan pada perangkat dan sistem dengan tepat dan benar. |
+
+#### 5. Rubrik dan Panduan Penilaian
+
+| Kriteria | Deskripsi                                                                                                      | Skor |
+|----------|---------------------------------------------------------------------------------------------------------------|------|
+| 1        | Pemahaman konsep dasar keamanan jaringan                                                                       |      |
+|          | 1: Kurang dari 75, penjelasan tidak jelas dan banyak kesalahan                                                | 1    |
+|          | 2: 75-85, penjelasan cukup jelas namun masih ada beberapa kesalahan                                            | 2    |
+|          | 3: 86-95, penjelasan jelas dan hanya sedikit kesalahan                                                         | 3    |
+|          | 4: 96-100, penjelasan sangat jelas dan benar tanpa kesalahan                                                   | 4    |
+| 2        | Mengidentifikasi berbagai jenis ancaman dan serangan terhadap jaringan                                         |      |
+|          | 1: Kurang dari 75, identifikasi tidak tepat dan banyak kesalahan                                               | 1    |
+|          | 2: 75-85, identifikasi cukup tepat namun ada beberapa kesalahan                                                | 2    |
+|          | 3: 86-95, identifikasi tepat dengan sedikit kesalahan                                                          | 3    |
+|          | 4: 96-100, identifikasi sangat tepat tanpa kesalahan                                                           | 4    |
+| 3        | Pemahaman teknik dan alat yang digunakan untuk melindungi jaringan                                             |      |
+|          | 1: Kurang dari 75, penjelasan tidak jelas dan banyak kesalahan                                                 | 1    |
+|          | 2: 75-85, penjelasan cukup jelas namun ada beberapa kesalahan                                                  | 2    |
+|          | 3: 86-95, penjelasan jelas dengan sedikit kesalahan                                                            | 3    |
+|          | 4: 96-100, penjelasan sangat jelas dan benar tanpa kesalahan                                                   | 4    |
+| 4        | Mengimplementasikan langkah-langkah keamanan jaringan pada perangkat dan sistem                                |      |
+|          | 1: Kurang dari 75, implementasi tidak tepat dan banyak kesalahan                                               | 1    |
+|          | 2: 75-85, implementasi cukup tepat namun ada beberapa kesalahan                                                | 2    |
+|          | 3: 86-95, implementasi tepat dengan sedikit kesalahan                                                          | 3    |
+|          | 4: 96-100, implementasi sangat tepat tanpa kesalahan                                                           | 4    |
+
+Catatan:
+* Diisi sesuai dengan perolehan skor sesuai dengan pedoman penskoran.
+* Nilai keterampilan diperoleh dari perhitungan: \( \left( \frac{\text{Jumlah Skor yang diperoleh}}{\text{Skor maksimal}} \right) \times 10 \)
