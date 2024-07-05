@@ -1,0 +1,72 @@
+### Modul Ajar: Pemasangan dan Konfigurasi Perangkat Jaringan (VLAN)
+
+#### 1. Tujuan Pembelajaran
+1.1 Memahami konsep dasar Virtual LAN (VLAN).
+1.2 Mengidentifikasi manfaat dan penggunaan VLAN dalam jaringan.
+1.3 Mengkonfigurasi perangkat jaringan untuk VLAN.
+1.4 Menguji konektivitas dan fungsionalitas VLAN yang telah dikonfigurasi.
+
+#### 2. Langkah Kegiatan
+- **Kegiatan 1**:
+  1. Pembelajaran teori tentang konsep dasar VLAN, termasuk definisi, jenis-jenis VLAN, dan protokol terkait.
+  2. Diskusi kelompok mengenai manfaat dan penggunaan VLAN dalam jaringan untuk meningkatkan kinerja dan keamanan.
+  3. Proyek kelompok untuk membuat laporan yang menjelaskan skenario penggunaan VLAN dalam sebuah organisasi dan strategi implementasinya.
+  4. Tugas individu untuk melakukan studi kasus tentang penerapan VLAN dalam jaringan perusahaan dan analisis dampaknya.
+
+- **Kegiatan 2**:
+  1. Pembelajaran teori tentang konfigurasi perangkat jaringan untuk VLAN, termasuk switch dan router.
+  2. Analisis studi kasus tentang implementasi VLAN dalam lingkungan jaringan nyata.
+  3. Praktik konfigurasi perangkat jaringan untuk VLAN menggunakan simulasi perangkat lunak atau perangkat keras.
+  4. Proyek individu untuk mengkonfigurasi VLAN pada perangkat jaringan, termasuk pengujian konektivitas dan fungsionalitas VLAN yang telah dikonfigurasi.
+
+#### 3. Asesmen
+- **Asesmen Awal**:
+  1. Pre-test untuk mengukur pemahaman awal siswa tentang konsep dasar VLAN dan manfaatnya.
+  2. Tanya jawab singkat untuk mengetahui pengetahuan dasar siswa tentang penggunaan VLAN dalam jaringan.
+
+- **Asesmen Proses**:
+  1. Observasi keterlibatan siswa selama diskusi kelompok dan kegiatan praktik.
+  2. Penilaian tugas kelompok berdasarkan laporan yang dibuat tentang skenario penggunaan VLAN.
+  3. Penilaian kinerja siswa saat melakukan konfigurasi perangkat jaringan untuk VLAN.
+
+- **Asesmen Akhir**:
+  1. Post-test untuk mengukur peningkatan pemahaman siswa setelah mengikuti pembelajaran.
+  2. Penilaian proyek akhir yang melibatkan konfigurasi dan pengujian VLAN pada perangkat jaringan.
+
+#### 4. Lembar Penilaian
+
+| No  | Tujuan Pembelajaran                                      | Kriteria Ketercapaian Tujuan Pembelajaran                                                                 |
+|-----|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 1   | Memahami konsep dasar Virtual LAN (VLAN)                 | Siswa mampu menjelaskan konsep dasar VLAN dengan jelas dan benar.                                        |
+| 2   | Mengidentifikasi manfaat dan penggunaan VLAN dalam jaringan | Siswa mampu mengidentifikasi manfaat dan penggunaan VLAN dalam jaringan dengan tepat.                    |
+| 3   | Mengkonfigurasi perangkat jaringan untuk VLAN            | Siswa mampu mengkonfigurasi perangkat jaringan untuk VLAN dengan tepat dan benar.                        |
+| 4   | Menguji konektivitas dan fungsionalitas VLAN yang telah dikonfigurasi | Siswa mampu menguji konektivitas dan fungsionalitas VLAN yang telah dikonfigurasi dengan benar.         |
+
+#### 5. Rubrik dan Panduan Penilaian
+
+| Kriteria | Deskripsi                                                                                                      | Skor |
+|----------|---------------------------------------------------------------------------------------------------------------|------|
+| 1        | Pemahaman konsep dasar Virtual LAN (VLAN)                                                                      |      |
+|          | 1: Kurang dari 75, penjelasan tidak jelas dan banyak kesalahan                                                | 1    |
+|          | 2: 75-85, penjelasan cukup jelas namun masih ada beberapa kesalahan                                            | 2    |
+|          | 3: 86-95, penjelasan jelas dan hanya sedikit kesalahan                                                         | 3    |
+|          | 4: 96-100, penjelasan sangat jelas dan benar tanpa kesalahan                                                   | 4    |
+| 2        | Mengidentifikasi manfaat dan penggunaan VLAN dalam jaringan                                                    |      |
+|          | 1: Kurang dari 75, identifikasi tidak tepat dan banyak kesalahan                                               | 1    |
+|          | 2: 75-85, identifikasi cukup tepat namun ada beberapa kesalahan                                                | 2    |
+|          | 3: 86-95, identifikasi tepat dengan sedikit kesalahan                                                          | 3    |
+|          | 4: 96-100, identifikasi sangat tepat tanpa kesalahan                                                           | 4    |
+| 3        | Mengkonfigurasi perangkat jaringan untuk VLAN                                                                  |      |
+|          | 1: Kurang dari 75, konfigurasi tidak tepat dan banyak kesalahan                                                | 1    |
+|          | 2: 75-85, konfigurasi cukup tepat namun ada beberapa kesalahan                                                 | 2    |
+|          | 3: 86-95, konfigurasi tepat dengan sedikit kesalahan                                                           | 3    |
+|          | 4: 96-100, konfigurasi sangat tepat tanpa kesalahan                                                            | 4    |
+| 4        | Menguji konektivitas dan fungsionalitas VLAN yang telah dikonfigurasi                                          |      |
+|          | 1: Kurang dari 75, pengujian tidak tepat dan banyak kesalahan                                                  | 1    |
+|          | 2: 75-85, pengujian cukup tepat namun ada beberapa kesalahan                                                   | 2    |
+|          | 3: 86-95, pengujian tepat dengan sedikit kesalahan                                                             | 3    |
+|          | 4: 96-100, pengujian sangat tepat tanpa kesalahan                                                              | 4    |
+
+Catatan:
+* Diisi sesuai dengan perolehan skor sesuai dengan pedoman penskoran.
+* Nilai keterampilan diperoleh dari perhitungan: \( \left( \frac{\text{Jumlah Skor yang diperoleh}}{\text{Skor maksimal}} \right) \times 10 \)
